@@ -1,4 +1,4 @@
-# This is my project Brain_Tumor_MRI in TF
+# This is my project Brain_Tumor_MRI in TensorFlow
 ## Data
 I used dataset from kaggle website: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data
 
